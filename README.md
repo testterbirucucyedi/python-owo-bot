@@ -3,15 +3,13 @@
 
 Bot bana ait değildir dosyaları alıntıdır. 
 
-Bi Star Atarsanız Sevinirim Bir Hatanız Veya Bir Sorununuz Olursa Discord: Athenax#8928 
+Bi Star Atarsanız Sevinirim Bir Hatanız Veya Bir Sorununuz Olursa Discord: selim#1337
 
 ----------------------------------------Kurulum----------------------------------------------------------------------------
 
 Kurulum İçin Tek Yapmanız Gereken Terminale pip install pyautogui Yazıp Kurulum Yapmanız Yeterlidir!
 
 Kurulumu Tamamladıktan Sonra başlat.bat adlı dosyayı çalıştırınız.
-
-Development By: Athenax#8928
 
 - **Everything you can imagine is real -**
 
