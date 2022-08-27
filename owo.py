@@ -1,7 +1,7 @@
 import pyautogui as auto
 import time
 
-print("1337 OwO Bot | 5 Saniye Sonra Aktif Edilecektir.")
+print("MCT OwO Bot | 5 Saniye Sonra Aktif Edilecektir.")
 print("----------------------------------------------------")
 print("Developer > selim#1337 ")
 print("----------------------------------------------------")
@@ -21,8 +21,8 @@ while True:
     x+=1
     if x == 4:
         x=0
-        auto.write("Yoruldum")
+        auto.write("MCT OwO Bot | 1 Dakikalıgına Durdurulmustur!")
         auto.press("Enter")
         time.sleep(60)
-        auto.write("Neyse owo kasmaya devam")
+        auto.write("MCT OwO Bot | Yeniden Baslatılmıstır!")
         auto.press("Enter")
